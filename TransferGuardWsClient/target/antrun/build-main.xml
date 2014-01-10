@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <copy todir="src/main/java">
-    <fileset dir="C:\workspaces\workspace-kepler\TransferGuardWsClient\target/generated-sources/cxf"/>
-  </copy>
-</target>
-</project>
